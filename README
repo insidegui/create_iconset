@@ -1,0 +1,17 @@
+Requires ImageMagick!
+
+Creates a original_file.iconset folder with the correct icon sizes:
+
+512x512@2x
+512x512
+256x256@2x
+256x256
+128x128@2x
+128x128
+32x32@2x
+32x32
+16x16@2x
+16x16
+
+Usage:
+create_iconset original_file
